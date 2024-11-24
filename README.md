@@ -2,7 +2,7 @@
 
 [Introduction]
 
-I'm Tywan i am currently a Senior in highschool and my strongest subjects in school are math and health. I enjoy learning about new things. I want to devolope strengths in the cybersecurity feild. I am very pasionate in growing and helping the people around me grow and become better as well. I want to work for an entry level cybersecuirty job. I also want to learn about aws and more. I belive that the google cybersecuirty certficate will not only help me achieve my goals, also giving me more knowledge about cybersecurity.
+I'm Tywan i am currently a Senior in high school and my strongest subjects in school are math and health. I enjoy learning about new things. I want to develop strengths in the cybersecurity field. I am very passionate in growing and helping the people around me grow and become better as well. I want to work for an entry level cybersecurity job. I also want to learn about aws and more. I believe that the google cybersecurity certificate will not only help me achieve my goals, also giving me more knowledge about cybersecurity.
 
 [clarifying questions] 
 Some strengths I have very quick leaner, good with looking for malicious IP address.
