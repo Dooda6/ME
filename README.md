@@ -18,5 +18,8 @@ All my goals and values can help an organzation keep there reputation, team play
 
 https://www.linkedin.com/in/tywan-terrell/
 
-# [Skills/Certifications]
+# Job Experience 
 
+Chick-Fila - Worked In front end, mostly with the people learned bsaic communication and team work skills.
+
+Walmart Team Associate - Worked in the front end as well, basic work helping customers etc.
