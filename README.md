@@ -10,10 +10,13 @@ Some my values I have is helping other people, very willing to learn and be a te
 My intrests in the cybersecurity feild is learning more networking and aws. I like the idea of helping to fend of hackers from breaking a companys sytem.
 All my goals and values can help an organzation keep there reputation, team players are the key to having a good team. Role plays like myself are the reason companys succeed.
 
-📚 I'm currently learning all about IT and Security.
+📚 I'm currently learning all about Pentesting and Network Anlaysis.
 
-🏡 I’m from Chicago
+🏡 I’m from Chicago Illinois 
 
 # SOCIAL NETWORKS
 
 https://www.linkedin.com/in/tywan-terrell/
+
+# [Skills/Certifications]
+
